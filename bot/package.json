@@ -1,0 +1,18 @@
+{
+  "name": "BOT NAME",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^1.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
